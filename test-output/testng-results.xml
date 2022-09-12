@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Forename is required is the expected message]]>
+    </line>
+    <line>
+      <![CDATA[Email is required is the expected message]]>
+    </line>
+    <line>
+      <![CDATA[Message is required is the expected message]]>
+    </line>
+    <line>
+      <![CDATA[forename error is gone]]>
+    </line>
+    <line>
+      <![CDATA[email error is gone]]>
+    </line>
+    <line>
+      <![CDATA[message error is gone]]>
+    </line>
+    <line>
+      <![CDATA[Thanks Vikram, we appreciate your feedback. is the expected message]]>
+    </line>
+    <line>
+      <![CDATA[verified contact submission for 1 times 
+]]>
+    </line>
+    <line>
+      <![CDATA[subtotal values are matching]]>
+    </line>
+    <line>
+      <![CDATA[Stuffed Frog price is 10.99]]>
+    </line>
+    <line>
+      <![CDATA[subtotal values are matching]]>
+    </line>
+    <line>
+      <![CDATA[Fluffy Bunny price is 9.99]]>
+    </line>
+    <line>
+      <![CDATA[subtotal values are matching]]>
+    </line>
+    <line>
+      <![CDATA[Valentine Bear price is 14.99]]>
+    </line>
+    <line>
+      <![CDATA[total values are matching]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-09-12T20:41:00 AEST" name="Default suite" finished-at="2022-09-12T20:41:26 AEST" duration-ms="25996">
+    <groups>
+    </groups>
+    <test started-at="2022-09-12T20:41:00 AEST" name="Default test" finished-at="2022-09-12T20:41:26 AEST" duration-ms="25996">
+      <class name="seleniumassignment.testcases">
+        <test-method is-config="true" signature="startTest()[pri:0, instance:seleniumassignment.testcases@4b8ee4de]" started-at="2022-09-12T20:41:00 AEST" name="startTest" finished-at="2022-09-12T20:41:04 AEST" duration-ms="4489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="testcase1()[pri:0, instance:seleniumassignment.testcases@4b8ee4de]" started-at="2022-09-12T20:41:04 AEST" name="testcase1" finished-at="2022-09-12T20:41:06 AEST" duration-ms="1413" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Forename is required is the expected message]]>
+            </line>
+            <line>
+              <![CDATA[Email is required is the expected message]]>
+            </line>
+            <line>
+              <![CDATA[Message is required is the expected message]]>
+            </line>
+            <line>
+              <![CDATA[forename error is gone]]>
+            </line>
+            <line>
+              <![CDATA[email error is gone]]>
+            </line>
+            <line>
+              <![CDATA[message error is gone]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:seleniumassignment.testcases@4b8ee4de]" started-at="2022-09-12T20:41:06 AEST" name="endTest" finished-at="2022-09-12T20:41:06 AEST" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="startTest()[pri:0, instance:seleniumassignment.testcases@4b8ee4de]" started-at="2022-09-12T20:41:06 AEST" name="startTest" finished-at="2022-09-12T20:41:09 AEST" duration-ms="3696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="testcase2()[pri:0, instance:seleniumassignment.testcases@4b8ee4de]" started-at="2022-09-12T20:41:09 AEST" name="testcase2" finished-at="2022-09-12T20:41:15 AEST" duration-ms="5880" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Thanks Vikram, we appreciate your feedback. is the expected message]]>
+            </line>
+            <line>
+              <![CDATA[verified contact submission for 1 times 
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:seleniumassignment.testcases@4b8ee4de]" started-at="2022-09-12T20:41:15 AEST" name="endTest" finished-at="2022-09-12T20:41:15 AEST" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="startTest()[pri:0, instance:seleniumassignment.testcases@4b8ee4de]" started-at="2022-09-12T20:41:15 AEST" name="startTest" finished-at="2022-09-12T20:41:20 AEST" duration-ms="4313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="testcase3()[pri:0, instance:seleniumassignment.testcases@4b8ee4de]" started-at="2022-09-12T20:41:20 AEST" name="testcase3" finished-at="2022-09-12T20:41:26 AEST" duration-ms="5784" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[subtotal values are matching]]>
+            </line>
+            <line>
+              <![CDATA[Stuffed Frog price is 10.99]]>
+            </line>
+            <line>
+              <![CDATA[subtotal values are matching]]>
+            </line>
+            <line>
+              <![CDATA[Fluffy Bunny price is 9.99]]>
+            </line>
+            <line>
+              <![CDATA[subtotal values are matching]]>
+            </line>
+            <line>
+              <![CDATA[Valentine Bear price is 14.99]]>
+            </line>
+            <line>
+              <![CDATA[total values are matching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:seleniumassignment.testcases@4b8ee4de]" started-at="2022-09-12T20:41:26 AEST" name="endTest" finished-at="2022-09-12T20:41:26 AEST" duration-ms="135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- seleniumassignment.testcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
