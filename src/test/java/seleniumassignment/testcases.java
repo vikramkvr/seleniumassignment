@@ -51,7 +51,7 @@ public class testcases extends genericclass{
 	public void testcase2()
 	{
 		
-		fillAndSubmitContactInfo(driver,prop,1);
+		fillAndSubmitContactInfo(driver,prop,5);
 	
 	}
 	
